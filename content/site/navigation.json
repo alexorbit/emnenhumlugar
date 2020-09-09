@@ -6,18 +6,18 @@
       "external": false
     },
     {
-      "name": "About",
+      "name": "Sobre",
       "link": "/about",
       "external": false
     },
     {
-      "name": "Getting started",
+      "name": "Começe aqui",
       "link": "/category/getting-started",
       "external": false
     }
   ],
   "footerNavigation": [{
-      "name": "Latest Posts",
+      "name": "Últimos Posts",
       "link": "/",
       "external" : false
     },
