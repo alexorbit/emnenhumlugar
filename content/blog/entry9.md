@@ -1,5 +1,5 @@
 ---
-title: Cunctas non toxea inpatiens in virorum surdaeque
+title: Título do artigo aqui.
 tags: tag1, tag2, tag3
 category: Health
 excerpt: Saepe Horamque Typhoea in denique, vivere semina manu quodque hic quia et iam natis.
@@ -9,7 +9,7 @@ image_caption: Photo by Sergio Souza on Unsplash
 author: author3
 ---
 
-## Aoniis possis quae suspiria
+## Começando o texto aqui.
 
 Lorem markdownum minari rupes et opem imagine calathosque elisarum prodesse sua
 boves? Abest Phrygum Aetne: incandescit tenet, animos reiectura culpa praecipue
