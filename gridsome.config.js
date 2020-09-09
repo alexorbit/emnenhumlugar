@@ -1,8 +1,8 @@
 const path = require('path');
 
 module.exports = {
-  siteName: 'Casper',
-  siteDescription: 'an awesome Gridsome starter kit',
+  siteName: 'Em Nenhum Lugar',
+  siteDescription: 'uma aventura antropológica',
   siteUrl: 'http://localhost:8080',
 
   plugins: [
